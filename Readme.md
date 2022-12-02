@@ -10,5 +10,4 @@
 
 The code runs with an inbuilt input text file optionally, provide a path (on local computer) containing expected test data when running the application `java Calories /path/to/well/formatted/text/file`
 
-
-[https://adventofcode.com/2022/day/1](Problem statement)
+[Problem statement](https://adventofcode.com/2022/day/1)
